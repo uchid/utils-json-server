@@ -1,0 +1,17 @@
+{
+  "dummies": [
+    {
+      "id": 0,
+      "name": "Georgiana Beer",
+      "email": "Alessandro_Abbott56@hotmail.com"
+    },
+    { "id": 1, "name": "Solon Howe", "email": "Caleigh_Nitzsche@hotmail.com" },
+    {
+      "id": 2,
+      "name": "Beaulah Schneider",
+      "email": "Herta_Hilll@hotmail.com"
+    },
+    { "id": 3, "name": "Sabryna Muller", "email": "Kevon18@gmail.com" },
+    { "id": 4, "name": "Jonathon Bergstrom", "email": "Zander41@gmail.com" }
+  ]
+}
