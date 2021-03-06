@@ -11,6 +11,7 @@ db[property] = [];
     id: i,
     name: faker.name.findName(),
     email: faker.internet.email(),
+    body: faker.lorem.text(),
   });
 });
 
